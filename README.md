@@ -1,16 +1,16 @@
-# 🌐 Aditya Bhatt — Cybersecurity Portfolio
+# 🌐 Anuj Sharma — Cybersecurity Portfolio
 
 Welcome to my personal portfolio website, hosted via GitHub Pages!
 
-This website showcases my professional journey, technical skills, certifications, achievements, major projects, and published articles in the field of **Cybersecurity**, **VAPT**, **Cryptography**, and **Cloud Security**.
+This website showcases my professional journey, technical skills, certifications, achievements, major projects, and published articles in the field of **Cybersecurity**, **VAPT**, **Digital Forensics**, and **Cloud Security**.
 
-> 🔒 Ethical Hacker | Red Team Specialist | TryHackMe Global Top 2% | Published Author
+> 🔒 Ethical Hacker | Red Team Specialist | TryHackMe Global Top 5% | 
 
 ---
 
 ## 🚀 Live Website
 
-Visit the portfolio: [https://adityabhatt3010.github.io](https://adityabhatt3010.github.io)
+Visit the portfolio: [https://cyb3rsec.github.io](https://cyb3rsec.github.io)
 
 ---
 
@@ -48,7 +48,6 @@ Visit the portfolio: [https://adityabhatt3010.github.io](https://adityabhatt3010
 - 🎓 Education
 - 📜 Certifications
 - 🏆 Achievements
-- 📚 Trainings & Courses
 - 📝 Blog Articles
 - 📞 Contact Form
 
@@ -62,13 +61,9 @@ This site is deployed using [GitHub Pages](https://pages.github.com/), a free an
 
 ## 📧 Connect With Me
 
-- 🔗 [Linktree](https://linktr.ee/AdityaBhatt3010)
-- 💼 [LinkedIn](https://www.linkedin.com/in/aditya-bhatt-b61868250/)
-- 🐙 [GitHub](https://github.com/adityabhatt3010)
-- 📝 [Medium](https://medium.com/@info.adityabhatt3010)
-- 🛡️ [TryHackMe](https://tryhackme.com/p/info.adityabhatt)
-- 🎖️ [Credly](https://www.credly.com/users/aditya-bhatt3010)
+- 💼 [LinkedIn](https://www.linkedin.com/in/anuj-cyb3rsec/)
 
 ---
 
-> Designed & Developed with 💙 by **Aditya Bhatt**
+> Designed & Developed with 💙 by **Anuj Sharma**
+> Credit Goes To Aditya Bhatt.
