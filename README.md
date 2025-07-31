@@ -65,5 +65,5 @@ This site is deployed using [GitHub Pages](https://pages.github.com/), a free an
 
 ---
 
-> Designed & Developed with 💙 by **Aditya Bhatt**
-> Credit Goes To Aditya Bhatt my brother Thankyou So much (gulabi dil).
+> Designed by **Aditya Bhatt**
+> my brother Thankyou So much (gulabi dil).
