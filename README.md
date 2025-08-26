@@ -64,6 +64,3 @@ This site is deployed using [GitHub Pages](https://pages.github.com/), a free an
 - 💼 [LinkedIn](https://www.linkedin.com/in/anuj-cyb3rsec/)
 
 ---
-
-> Designed by **Aditya Bhatt**
-> my brother Thankyou So much (gulabi dil).
